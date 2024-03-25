@@ -27,11 +27,11 @@ We conducted an initial analysis focusing on data processing and exploratory dat
 
 Our approach includes several machine learning models to address the prediction task:
 
-- **Lasso Logistic Regression** for feature selection
-- **K-Nearest Neighbors (K-NN)** for capturing non-linear relationships
-- **Decision Trees** for interpretability and handling non-linear data
-- **Random Forest** and **XGBoost** for ensemble methods to improve prediction accuracy
-- **Neural Networks** for modeling complex patterns
+- **Lasso Logistic Regression** 
+- **K-Nearest Neighbors (K-NN)** 
+- **Decision Trees** 
+- **Random Forest** and **XGBoost** 
+- **Neural Networks** 
 
 ### Insights and Model Performance
 
