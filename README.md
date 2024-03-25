@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project, conducted by Group 3 (Himanish Prakash, Eduardo Saavedra, & Shiv Goel), employs advanced statistical and machine learning techniques to analyze clinical data for predicting mortality due to heart failure. By utilizing a dataset with 13 predictive attributes from the NIH, our goal is to enhance the prediction accuracy of heart failure mortality, ultimately aiming to improve healthcare decision-making processes and patient care strategies.
+This project employs advanced statistical and machine learning techniques to analyze clinical data for predicting mortality due to heart failure. By utilizing a dataset with 13 predictive attributes from the NIH, our goal is to enhance the prediction accuracy of heart failure mortality, ultimately aiming to improve healthcare decision-making processes and patient care strategies.
 
 ## Objective
 
