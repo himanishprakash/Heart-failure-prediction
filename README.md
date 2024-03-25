@@ -1,6 +1,3 @@
-Based on the document you've provided, here's a template for a README file that you can use for your GitHub project on heart failure mortality prediction using machine learning techniques. You might need to adjust the formatting to fit GitHub's Markdown style better.
-
----
 
 # Heart Failure Mortality Prediction
 
